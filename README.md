@@ -1,7 +1,5 @@
 # Restaurant-Management-System
 This is a restaurant management software which I developed for one of the assignment in Programming 1 course in University.
-addng 
-
 ## Features !
  - Intuitive user interface
  - Desktop application
